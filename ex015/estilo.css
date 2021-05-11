@@ -1,0 +1,71 @@
+body {
+   background: rgb(14, 86, 180);
+   font-family: sans-serif;
+   margin-left: 7%;
+
+
+}
+
+header {
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+    border: #c8d5e6
+}
+
+section {
+
+ background: rgba(51, 77, 192, 0.815);
+ border-radius: 10px;
+ padding: 15px;
+ width: 500px;
+ margin: auto;
+ box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.479);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: verdana;
+}
+
+div {
+    text-align: center;
+    color: white;
+    
+}
+
+#gen {
+    width: 500px;
+    height: 0px;
+
+}
+
+#txtano {
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.479);
+    border: 5px solid #2c65af
+}
+
+#bot {
+    background-color: rgba(62, 62, 221, 0.644);
+    color: white;
+    width: 300px;
+    border-radius: 5px;
+    height: 30px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.479); 
+    border: 2px solid #2e22d6
+}
+
+#res {
+    font-family: sans-serif;
+    font-size: 20pt;
+
+}
+
+input {
+    border-radius: 5px;
+
+}
